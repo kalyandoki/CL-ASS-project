@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-image: url("https://img.freepik.com/free-photo/business-people-blue-background_53876-101889.jpg?w=1480&t=st=1698919243~exp=1698919843~hmac=806478c135f0b1da49b1d8a19ccc6728aa07a0000bc561ccd30d05fd36488e6d");
+    background-size: cover;
+    height: 100%;
+}
+
+.cl-logo {
+    background-color: black;
+    padding-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+    text-align: left;
+}
+
+.head {
+    color: white;
+    font-size: 25px;
+}
+
+.change-border {
+    border-style: solid;
+    border-color: #5eb9eb;
+    border-width: 1px;
+}
+
+.Register-container {
+    background-image: url("https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-112225.jpg?w=996&t=st=1699009918~exp=1699010518~hmac=81a35204aca3900e60ed51a8274c5c135cf9215bba26707bdaec0d2a69bd3bdf");
+}
+
+.page {
+    color: white;
+    font-size: 15px;
+}
+
+.mid-line {
+    text-decoration: line-through;
+}
+
+.host {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+.ai-lines-container {
+    background-image: url("https://img.freepik.com/premium-photo/3d-rendering-female-cyborg-robot-with-white-blank-board-space_493806-6262.jpg?w=1480");
+    background-size: cover;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.ai-main-heading {
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.host-container {
+    background-color: black;
+}
+
+.ladie-img {
+    padding: 10px;
+}
+
+.ai-training-page {
+    color: #2a4387;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ai-training-page2 {
+    color: #2a4387;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.privite {
+    color: #959da1;
+}
+
+.ai-training {
+    color: #2a4387;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.top-trending-contant {
+    background-image: url("https://img.freepik.com/free-photo/beige-paintbrush-stroke-textured-background_53876-129531.jpg?w=1480&t=st=1698920668~exp=1698921268~hmac=03e8fa96c19070b60d3e1bc552874baab3bef61766c6b9e2408790c17ba7680e");
+}
+
+.join-page {
+    background-color: #17110e;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.icon {
+    color: #e06c19;
+    margin: 5px;
+}
+
+.star {
+    color: #d40f33;
+}
+
+.company-icons {
+    background-color: #c20c1e;
+    width: 100%;
+}
+
+.date-page {
+    color: #1e8bd9;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.secure {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.free-color {
+    color: #ab0a28;
+    font-weight: 500;
+}
+
+.top-trending-paragraph {
+    color: #2a4387;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.top-trending-head {
+    color: #db1812;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
